@@ -1,0 +1,62 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Dodelson} {et~al.}(2016){Dodelson}, {Heitmann}, {Hirata},
+  {Honscheid}, {Roodman}, {Seljak}, {Slosar}, \& {Trodden}}]{dodelson:2016}
+{Dodelson}, S., {Heitmann}, K., {Hirata}, C., {et~al.} 2016, ArXiv e-prints,
+  arXiv:1604.07626
+
+\bibitem[{{Najita} {et~al.}(2016){Najita}, {Willman}, {Finkbeiner}, {Foley},
+  {Hawley}, {Newman}, {Rudnick}, {Simon}, {Trilling}, {Street}, {Bolton},
+  {Angus}, {Bell}, {Buzasi}, {Ciardi}, {Davenport}, {Dawson}, {Dickinson},
+  {Drlica-Wagner}, {Elias}, {Erb}, {Feaga}, {Fong}, {Gawiser}, {Giampapa},
+  {Guhathakurta}, {Hoffman}, {Hsieh}, {Jennings}, {Johnston}, {Kashyap}, {Li},
+  {Linder}, {Mandelbaum}, {Marshall}, {Matheson}, {Meibom}, {Miller},
+  {O'Meara}, {Reddy}, {Ridgway}, {Rockosi}, {Sand}, {Schafer}, {Schmidt},
+  {Sesar}, {Sheppard}, {Thomas}, {Tollerud}, {Trump}, \& {von der
+  Linden}}]{najita:2016}
+{Najita}, J., {Willman}, B., {Finkbeiner}, D.~P., {et~al.} 2016, ArXiv
+  e-prints, arXiv:1610.01661
+
+\bibitem[{{Phillips} {et~al.}(2006){Phillips}, {Miller}, {Cowley}, \&
+  {Wallace}}]{phillips:2006}
+{Phillips}, A.~C., {Miller}, J., {Cowley}, D., \& {Wallace}, V. 2006, in
+  \procspie, Vol. 6269, Society of Photo-Optical Instrumentation Engineers
+  (SPIE) Conference Series, 62691O
+
+\bibitem[{{Sugai} {et~al.}(2015){Sugai}, {Tamura}, {Karoji}, {Shimono},
+  {Takato}, {Kimura}, {Ohyama}, {Ueda}, {Aghazarian}, {de Arruda},
+  {Barkhouser}, {Bennett}, {Bickerton}, {Bozier}, {Braun}, {Bui}, {Capocasale},
+  {Carr}, {Castilho}, {Chang}, {Chen}, {Chou}, {Dawson}, {Dekany}, {Ek},
+  {Ellis}, {English}, {Ferrand}, {Ferreira}, {Fisher}, {Golebiowski}, {Gunn},
+  {Hart}, {Heckman}, {Ho}, {Hope}, {Hovland}, {Hsu}, {Hu}, {Huang}, {Jaquet},
+  {Karr}, {Kempenaar}, {King}, {F{\`e}vre}, {Mignant}, {Ling}, {Loomis},
+  {Lupton}, {Madec}, {Mao}, {Marrara}, {M{\'e}nard}, {Morantz}, {Murayama},
+  {Murray}, {de Oliveira}, {de Oliveira}, {de Oliveira}, {Orndorff}, {de Paiva
+  Vila{\c c}a}, {Partos}, {Pascal}, {Pegot-Ogier}, {Reiley}, {Riddle},
+  {Santos}, {dos Santos}, {Schwochert}, {Seiffert}, {Smee}, {Smith},
+  {Steinkraus}, {Sodr{\'e}}, {Spergel}, {Surace}, {Tresse}, {Vidal}, {Vives},
+  {Wang}, {Wen}, {Wu}, {Wyse}, \& {Yan}}]{sugai:2015}
+{Sugai}, H., {Tamura}, N., {Karoji}, H., {et~al.} 2015, Journal of Astronomical
+  Telescopes, Instruments, and Systems, 1, 035001
+
+\bibitem[{{Yuan} {et~al.}(2015){Yuan}, {Lidman}, {Davis}, {Childress},
+  {Abdalla}, {Banerji}, {Buckley-Geer}, {Carnero Rosell}, {Carollo},
+  {Castander}, {D'Andrea}, {Diehl}, {Cunha}, {Foley}, {Frieman}, {Glazebrook},
+  {Gschwend}, {Hinton}, {Jouvel}, {Kessler}, {Kim}, {King}, {Kuehn},
+  {Kuhlmann}, {Lewis}, {Lin}, {Martini}, {McMahon}, {Mould}, {Nichol},
+  {Norris}, {O'Neill}, {Ostrovski}, {Papadopoulos}, {Parkinson}, {Reed},
+  {Romer}, {Rooney}, {Rozo}, {Rykoff}, {Sako}, {Scalzo}, {Schmidt}, {Scolnic},
+  {Seymour}, {Sharp}, {Sobreira}, {Sullivan}, {Thomas}, {Tucker}, {Uddin},
+  {Wechsler}, {Wester}, {Wilcox}, {Zhang}, {Abbott}, {Allam}, {Bauer},
+  {Benoit-L{\'e}vy}, {Bertin}, {Brooks}, {Burke}, {Carrasco Kind},
+  {Covarrubias}, {Crocce}, {da Costa}, {DePoy}, {Desai}, {Doel}, {Eifler},
+  {Evrard}, {Fausti Neto}, {Flaugher}, {Fosalba}, {Gaztanaga}, {Gerdes},
+  {Gruen}, {Gruendl}, {Honscheid}, {James}, {Kuropatkin}, {Lahav}, {Li},
+  {Maia}, {Makler}, {Marshall}, {Miller}, {Miquel}, {Ogando}, {Plazas},
+  {Roodman}, {Sanchez}, {Scarpine}, {Schubnell}, {Sevilla-Noarbe}, {Smith},
+  {Soares-Santos}, {Suchyta}, {Swanson}, {Tarle}, {Thaler}, \&
+  {Walker}}]{yuan:2015}
+{Yuan}, F., {Lidman}, C., {Davis}, T.~M., {et~al.} 2015, \mnras, 452, 3047
+
+\end{thebibliography}
